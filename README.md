@@ -9,4 +9,4 @@ Ahn, B.S., Kang, T.-S., Jung, J.O. (2024). Station metadata integration of regio
 
 ## Update ##
 [Version 1.0.1]
-- Revision of station information (KS.CGUB)
+- Correction of station information (KS.CGUB)
