@@ -6,3 +6,7 @@ We understand that station conditions can change from time to time. Therefore, w
 
 ## [Reference]
 Ahn, B.S., Kang, T.-S., Jung, J.O. (2024). Station metadata integration of regional seismic networks in the southern Korean Peninsula. Journal of the Geological Society of Korea, 60(1). (in Korean with English abstract) (in press).
+
+## Update ##
+[Version 1.0.1]
+- Revision of station information (KS.CGUB)
