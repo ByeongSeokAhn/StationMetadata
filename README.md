@@ -9,4 +9,8 @@ Ahn, B.S., Kang, T.-S., Jung, J.O. (2024). Station metadata integration of regio
 
 ## Update ##
 [Version 1.0.1]
-- Correction of the location of the station (KS.CGUB)
+- Correction of the location of the station (KS.CGUB); update date: 2024-03-19
+
+[Version 1.0.2]
+- Correction of the location of the station (KS.TAIA); update date: 2024-06-26
+
